@@ -1,7 +1,7 @@
-﻿{
+{
   "version": "1.0.0",
   "release_date": "2026-11-06",
   "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.0/tich_ta_kiem_pho.exe",
-  "changelog": "- Bản phát hành chính thức đầu tiên\n- Hỗ trợ giải mã map .w3x, xem cây công thức ghép đồ xuyên tầng\n- Tích hợp radar chỉ đường tới cửa hàng\n- Tích hợp AI cố vấn lên đồ chiến thuật",
+  "changelog": "Ban phat hanh chinh thuc Tich Ta Kiem Pho v1.0.0:\n- Giai ma moi map .w3x, xem cay cong thuc ghep do xuyen tang\n- Dinh vi Radar cham do chi tan cua Shop ban do tren Minimap\n- Tu dong dich mo ta trang bi sang tieng Viet\n- Tich hop he thong Tu Dong Cap Nhat Ngam (Auto-Updater VS Code Style)\n- Tich hop bi kip doc quyen Nhac Bat Quan",
   "mandatory": false
 }
