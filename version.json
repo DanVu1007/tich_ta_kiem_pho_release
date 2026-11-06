@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "release_date": "2026-11-06",
-  "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.0/tich_ta_kiem_pho.exe",
-  "changelog": "- Tra cứu và giải mã công thức ghép đồ Warcraft III\n- Định vị radar cửa hàng bán đồ trên bản đồ\n- Hỗ trợ dịch tự động tính năng trang bị\n- Hỗ trợ tự động cập nhật phiên bản mới",
+  "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.1/tich_ta_kiem_pho.exe",
+  "changelog": "Ban phat hanh chinh thuc v1.0.1:\n- Tu dong hien thi poster tuyen chien UNITE khi vua mo ung dung\n- Toi uu hoa giao dien va trai nghiem nguoi dung\n- He thong tu dong cap nhat ngam on dinh",
   "mandatory": false
 }
