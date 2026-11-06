@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "release_date": "2026-11-06",
-  "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.2/tich_ta_kiem_pho.exe",
-  "changelog": "- Nang cap ket noi da kenh CDN giup kiem tra cap nhat sieu nhanh\n- Toi uu giao dien banner tuyen chien khi mo ung dung\n- Tang cuong do on dinh he thong tra cuu cong thuc",
+  "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.3/tich_ta_kiem_pho.exe",
+  "changelog": "- Phat hanh chinh thuc Tich Ta Kiem Pho v1.0.3\n- Ket noi da kenh sieu toc CDN giup kiem tra va cap nhat ngam tuc thi\n- Tu dong hien thi banner tuyen chien UNITE khi vua mo ung dung\n- Toi uu hoa giao dien va trai nghiem tra cuu cong thuc",
   "mandatory": false
 }
