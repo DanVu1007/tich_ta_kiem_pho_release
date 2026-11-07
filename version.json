@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "release_date": "2026-11-06",
-  "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.3/tich_ta_kiem_pho.exe",
-  "changelog": "- Phat hanh chinh thuc Tich Ta Kiem Pho v1.0.3\n- Ket noi da kenh sieu toc CDN giup kiem tra va cap nhat ngam tuc thi\n- Tu dong hien thi banner tuyen chien UNITE khi vua mo ung dung\n- Toi uu hoa giao dien va trai nghiem tra cuu cong thuc",
+  "version": "1.0.4",
+  "release_date": "2026-11-07",
+  "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.4/tich_ta_kiem_pho.exe",
+  "changelog": "Cap nhat: Dich bang AI cho ca ban dung chung, an thong tin tai khoan luutru1007, mo rong khung mo ta item & thu nho shop, cho phep tat banner va ghi nho duong dan Warcraft III",
   "mandatory": false
 }
