@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "release_date": "2026-11-07",
-  "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.4/tich_ta_kiem_pho.exe",
-  "changelog": "Cap nhat: Dich bang AI cho ca ban dung chung, an thong tin tai khoan luutru1007, mo rong khung mo ta item & thu nho shop, cho phep tat banner va ghi nho duong dan Warcraft III",
+  "version": "1.0.5",
+  "release_date": "2026-11-13",
+  "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.5/tich_ta_kiem_pho.exe",
+  "changelog": "- Sửa triệt để lỗi tự động cập nhật (Auto-Updater): bổ sung fallback SSL khi tải file .exe, tự thử lại 3 lần khi rớt mạng, kiểm tra tính toàn vẹn file .exe (PE MZ + dung lượng) và hiển thị nút Thử Lại khi tải lỗi.\n- Sửa script hoán đổi bản mới khi khởi động lại trên Windows: thay thế timeout bằng ping chờ đúng tiến trình cũ thoát, chỉ xóa file tạm khi copy thành công và tự mở thẳng bản mới nếu thư mục bị khóa quyền ghi.\n- Giảm xung đột & chiếm dụng bộ nhớ khi chạy cùng Warcraft III 1.26: tự động đóng mọi file MPQ gốc và giải phóng bảng hash/block ngay sau khi quét map, không ép cửa sổ đè lên game toàn màn hình.\n- Lưu ý cho bản v1.0.3 / v1.0.4: nếu bản cũ trên máy không tự đổi file khi khởi động lại, vui lòng tải tay file tich_ta_kiem_pho.exe v1.0.5 đúng 1 lần này để kích hoạt Auto-Updater mới ổn định lâu dài.",
   "mandatory": false
 }
