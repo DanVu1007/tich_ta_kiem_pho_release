@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "release_date": "2026-11-19",
-  "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.6/tich_ta_kiem_pho.exe",
-  "changelog": "- Hỗ trợ giải mã đầy đủ công thức ghép đồ trên các map tối ưu hóa (Divide & Fight v2.19c...)\\n- Sửa lỗi hiển thị font tiếng Việt TCVN3/UTF-8 khi dữ liệu map có byte lỗi\\n- Nâng cấp định vị Shop bán nguyên liệu qua dummy unit trên bản đồ Radar\\n- Sửa lỗi cửa sổ chính bị lệch màn hình trên hệ thống 2 màn hình khác DPI",
+  "version": "1.0.7",
+  "release_date": "2026-11-25",
+  "download_url": "https://github.com/DanVu1007/tich_ta_kiem_pho_release/releases/download/v1.0.7/tich_ta_kiem_pho.exe",
+  "changelog": "- Hiển thị đầy đủ chỉ số, nội tại & kích hoạt khi rê chuột (hover) vào item ở danh sách, cửa hàng và sơ đồ công thức\n- Cải thiện độ tương phản màu chữ mô tả vật phẩm trên nền tối\n- Nâng cấp bộ giải mã bảng dữ liệu Widgetized (.txt / .slk) và icon BLP/TGA cho các map custom như Divide & Fight\n- Tối ưu hiệu năng và độ ổn định khi chạy song song cùng Warcraft III",
   "mandatory": false
 }
